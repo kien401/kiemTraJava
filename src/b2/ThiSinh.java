@@ -23,9 +23,13 @@ public class ThiSinh {
 	}
 
 
+	
+
 	public ThiSinh() {
 		
 	}
+
+
 
 
 	public void nhap() {
